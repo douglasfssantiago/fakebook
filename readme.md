@@ -5,7 +5,7 @@ by popular social networking platforms. It enables users to create profiles,
 make posts, and upload images. The project was developed by Software Developer 
 students at the Manitoba Institute of Trades & Technology (MITT).
 
-Visit the website [here](https://fabianmendozaospina.github.io/fakebook/)
+Visit the website [here](https://douglasfssantiago.github.io/fakebook/)
 
 ![](./assets/img/readme1.png)
 
@@ -38,7 +38,7 @@ experience for users to navigate through the app.
 1. Clone the Repository: Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/fabianmendozaospina/fakebook.git
+git clone https://github.com/douglasfssantiago/fakebook.git
 cd fakebook
 ```
 
